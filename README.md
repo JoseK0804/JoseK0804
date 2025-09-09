@@ -20,7 +20,7 @@
 
 <!--tech stack icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cypress,jmeter,selenium,css,discord,postgres,figma,github,html,java,js,linux,mongodb,mysql,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cypress,selenium,html,css,postman,postgres,figma,github,java,js,mongodb,mysql,vscode,discord,sql&perline=14" />
 </p>
 
 
