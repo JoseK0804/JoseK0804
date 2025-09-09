@@ -9,13 +9,13 @@
   </ul>
 </div>
 
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=css,discord,postgres,figma,github,html,java,js,linux,mongodb,mysql,postman,vscode&perline=14" />
@@ -26,7 +26,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contactame 🤝</h2></summary>
   </ul>
 </div>
 
